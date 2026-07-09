@@ -1,10 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo24334
-Fork on GitHub8373
+![logo]()
 <h1 align="center">Hi 👋, I'm Maheshsingh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aign="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
