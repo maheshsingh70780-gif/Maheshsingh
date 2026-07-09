@@ -1,4 +1,4 @@
-![logo](https://github.com/maheshsingh70780-gif/Maheshsingh/blob/1aa07b7c3a2f02364a3d35f7eb8dbcb3d1e5d3d8/Github%20Banner.pn}
+![logo](https://github.com/maheshsingh70780-gif/Maheshsingh/blob/96b6e71f68522496eb37f78ebf8c09d53bfe0636/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahesh Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
