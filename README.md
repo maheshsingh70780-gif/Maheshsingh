@@ -26,8 +26,38 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="mahesh singh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshsingh70780-gif hona chahiye
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="mahesh singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="mahesh singh" /></p>
+
+GitHub stats link
+
+Top languages link&show_icons=true&locale=en&layout=compact" alt="mahesh singh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshsingh70780-gif hona chahiye
+
+
+
+GitHub stats link
+
+Top languages link&show_icons=true&locale=en" alt="maheshsingh70780-gif hona chahiye
+
+
+
+GitHub stats link
+
+Top languages link" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshsingh70780-gif hona chahiye
+
+
+
+GitHub stats link
+
+Top languages link&" alt="maheshsingh70780-gif hona chahiye
+
+
+
+GitHub stats link
+
+Top languages link" /></p>
